@@ -28,7 +28,7 @@ In Week 3 we get to see,
 
 One Practice Quiz's,
 
-* * Shallow Neural Network.
+* Shallow Neural Network.
 
 ## Practice Lab
 
