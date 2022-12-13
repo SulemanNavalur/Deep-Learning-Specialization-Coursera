@@ -7,7 +7,7 @@ Course - Convolutional Neural Networks.
 Week 1
  
 In Week 1, we will Implement the foundational layers of CNNs (pooling, convolutions) and stack them properly in a deep network 
-to solve multi-class image classification problems..
+to solve multi-class image classification problems.
 
 ## Learning Objectives
 
