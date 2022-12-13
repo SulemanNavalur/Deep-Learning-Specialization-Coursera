@@ -1,4 +1,4 @@
-# Course 2 of Deep Learning Specialization Coursera.
+# Course 4 of Deep Learning Specialization Coursera.
 
 ## Course - Convolutional Neural Networks
 
