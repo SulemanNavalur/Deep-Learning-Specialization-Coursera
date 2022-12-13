@@ -26,4 +26,4 @@ In Week 1 we get to see,
 
 One Practice Quiz's,
 
-* Introduction to Deep Learning..
+* Introduction to Deep Learning.
