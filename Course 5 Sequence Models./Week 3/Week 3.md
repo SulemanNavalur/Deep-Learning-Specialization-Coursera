@@ -36,7 +36,7 @@ One Practice Quiz's,
 
 ## Practice Lab
 
-TWo Graded programming assignment,
+Two Graded programming assignment,
 
 * Neural Meachine Translation.
 * Trigger Word Detection.
